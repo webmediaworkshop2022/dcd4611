@@ -1,0 +1,136 @@
+* {
+
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+.header {
+
+    min-width:100vw;
+    background: #8AA9A8;
+    display: flex;
+    padding:30px;
+    align-items: center;
+   
+    
+    
+
+}
+
+.logo {
+
+    width:40px;
+    
+
+    
+}
+
+
+
+.container {
+
+    margin: 0 auto;
+    display: inline-block; 
+    line-height: 1.5em;
+
+}
+
+
+h1 {
+
+ text-align: left;
+ color:white;
+ font-size:20px;
+ padding:20px;
+ font-weight: 200;
+
+
+
+}
+
+
+
+h2 {
+    
+
+    padding:30px;
+    font-size: 30px;
+    font-weight: 400;
+    display: inline-block;
+
+}
+
+h3 {
+    
+    margin: 10px 0 20px 50px;
+
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.lesson1 a{
+
+    
+}
+
+ul li{
+
+    margin-left: 80px;
+    margin-top:10px;
+}
+
+
+h4 {
+    
+    margin-top: 10px;;
+    margin-left: 80px;
+    line-height: 1.5em;
+    font-size: 15px;
+    color: #4d2c7a;
+    font-weight: 200;
+}
+
+.lesson2 h3 {
+
+    margin: 40px 0 20px 50px;
+    font-size: 20px;
+    font-weight: 200;
+
+}
+
+
+.lesson3 h3 {
+
+    margin: 40px 0 20px 50px;
+    font-size: 20px;
+    font-weight: 200;
+
+}
+
+
+h5 { 
+
+
+ font-size: 1em;
+ font-weight: 500;
+ margin: 40px 0 0 65px;
+ color: #4D2C7A;
+ }
+
+
+
+h6 { 
+
+
+    font-size: 1em;
+    font-weight: 500;
+    margin: 40px 0 0 65px;
+    color: #565656;
+    }
+
+br { 
+
+ margin-top: 100px;
+
+}
